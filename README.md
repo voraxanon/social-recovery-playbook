@@ -1,25 +1,9 @@
 ﻿# Social Recovery Playbook
-<<<<<<< HEAD
-Practical guide for **secure social recovery** and **inheritance** in Bitcoin.
 
-## Contents
-- Social contract templates (roles, SLAs, proof-of-life)
-- 2-of-3 / 3-of-5 recovery flows
-- Incident runbooks (lost phone, lost shard, death)
+Part of **Satoshi 2.0**. Practical guide for secure social recovery & inheritance.
 
-## How to use
-1. Read docs/social-recovery-guide.md
-2. Copy a template from docs/social-contract-templates.md
-3. Run a tabletop exercise with guardians
+![License](https://img.shields.io/github/license/voraxanon/=flat-square)
+![Issues](https://img.shields.io/github/issues/voraxanon/=flat-square)
+![Pull Requests](https://img.shields.io/github/issues-pr/voraxanon/=flat-square)
 
-## License
-Docs: CC BY 4.0 · Scripts: MIT
-=======
-
-Conteúdo:
-- O que é Social Recovery e porquê usar
-- Critérios para guardiões
-- Procedimento de recuperação (M-of-N)
-- Fire drill anual
-
->>>>>>> 2649679 (Initial commit: social-recovery-playbook)
+👉 Landing: https://github.com/voraxanon/satoshi-2-0
