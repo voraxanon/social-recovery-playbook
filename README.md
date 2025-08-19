@@ -1,4 +1,8 @@
-﻿# 💰 Donations: [bc1qpyukknh3zqdpwqv7dwn5dqxysc8kt8fsqu80xv](bitcoin:bc1qpyukknh3zqdpwqv7dwn5dqxysc8kt8fsqu80xv)
+﻿<p align="center">
+  <a href="DONATE.md"><img alt="Donate" src="https://img.shields.io/badge/Donate-Bitcoin-orange?style=flat-square"></a>
+  <a href="bitcoin:bc1qpyukknh3zqdpwqv7dwn5dqxysc8kt8fsqu80xv"><img alt="Open in wallet" src="https://img.shields.io/badge/Open_in_wallet-bc1q...-black?style=flat-square"></a>
+</p>
+# 💰 Donations: [bc1qpyukknh3zqdpwqv7dwn5dqxysc8kt8fsqu80xv](bitcoin:bc1qpyukknh3zqdpwqv7dwn5dqxysc8kt8fsqu80xv)
 <p align="center"><img src="banner.svg" alt="Satoshi 2.0 Banner" width="720"/></p>
 
 <p align="center">
@@ -25,3 +29,6 @@ Part of **Satoshi 2.0**. Practical guide for secure social recovery & inheritanc
 Scan the QR code or send BTC to:
 \$btcAddress
 ![Donate BTC](https://raw.githubusercontent.com/voraxanon/.github/main/profile/btc-donation-qr.png)
+
+
+👉 See [DONATE.md](DONATE.md)

@@ -1,7 +1,12 @@
-﻿# 💜 Support the Project
+﻿# 🌍 Support Satoshi 2.0
 
-If you like this project, consider supporting it with a donation:
+Open-source tools for Bitcoin sovereignty. Your support keeps this project free and uncensored.
 
-**Bitcoin address**: $btcAddress
+## ⚡ Bitcoin (on-chain)
+**Address (bech32):**  
+$BTC
 
-![Donate Bitcoin](https://raw.githubusercontent.com/voraxanon/.github/main/profile/btc-donation-qr.png)
+![BTC QR](donation-qr.png)
+
+---
+Funds are used for research, docs and security tooling. Thank you!
