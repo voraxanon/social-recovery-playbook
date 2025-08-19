@@ -20,3 +20,8 @@ Part of **Satoshi 2.0**. Practical guide for secure social recovery & inheritanc
 👉 Landing: https://github.com/voraxanon/satoshi-2-0
 
 
+
+## 💜 Donations
+Scan the QR code or send BTC to:
+\$btcAddress
+![Donate BTC](https://raw.githubusercontent.com/voraxanon/.github/main/profile/btc-donation-qr.png)
