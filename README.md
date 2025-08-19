@@ -1,4 +1,5 @@
-﻿<p align="center"><img src="banner.svg" alt="Satoshi 2.0 Banner" width="720"/></p>
+﻿# 💰 Donations: [bc1qpyukknh3zqdpwqv7dwn5dqxysc8kt8fsqu80xv](bitcoin:bc1qpyukknh3zqdpwqv7dwn5dqxysc8kt8fsqu80xv)
+<p align="center"><img src="banner.svg" alt="Satoshi 2.0 Banner" width="720"/></p>
 
 <p align="center">
   <a href="https://github.com/voraxanon/social-recovery-playbook/stargazers"><img src="https://img.shields.io/github/stars/voraxanon/=flat-square&color=yellow"/></a>
