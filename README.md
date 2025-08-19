@@ -1,4 +1,5 @@
 ﻿# Social Recovery Playbook
+<<<<<<< HEAD
 Practical guide for **secure social recovery** and **inheritance** in Bitcoin.
 
 ## Contents
@@ -13,3 +14,12 @@ Practical guide for **secure social recovery** and **inheritance** in Bitcoin.
 
 ## License
 Docs: CC BY 4.0 · Scripts: MIT
+=======
+
+Conteúdo:
+- O que é Social Recovery e porquê usar
+- Critérios para guardiões
+- Procedimento de recuperação (M-of-N)
+- Fire drill anual
+
+>>>>>>> 2649679 (Initial commit: social-recovery-playbook)
